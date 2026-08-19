@@ -1,319 +1,335 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MessageBuilder",
+              "description": "Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes side service part.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470878970,
+                "language": "JavaScript",
+                "last_commit": "2026-01-13T04:43:58Z",
+                "owner": "zepp-health",
+                "repo": "zeppos-samples",
+                "stars": 219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Authenticator",
+              "description": "An 2FA app for Zepp OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526248858,
+                "language": "JavaScript",
+                "last_commit": "2025-09-24T03:17:57Z",
+                "owner": "ZoLArk173",
+                "repo": "Authenticator",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zapp-framework",
+              "description": "Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529560977,
+                "language": "TypeScript",
+                "last_commit": "2022-12-25T16:05:23Z",
+                "owner": "j-piasecki",
+                "repo": "zapp-framework",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zeppos-fx",
+              "description": "A library for providing simple animations in ZeppOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603653570,
+                "language": "JavaScript",
+                "last_commit": "2026-01-09T13:00:03Z",
+                "owner": "XiaomaiTX",
+                "repo": "zeppos-fx",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vis-log",
+              "description": "ZeppOS Visual Logger: On-Screen Logs on Your Device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678573952,
+                "language": "JavaScript",
+                "last_commit": "2025-10-11T01:29:51Z",
+                "owner": "silver-zepp",
+                "repo": "zeppos-visual-logger",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zeppos-device-types-v1",
+              "description": "Third part typings lib.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576039892,
+                "language": null,
+                "last_commit": "2022-12-10T22:49:33Z",
+                "owner": "tytydraco",
+                "repo": "zeppos-device-types-v1",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "numeric-keyboard-amazfit-devices",
+              "description": "A simple numeric keyboard for amazfit band 7, GTS 4, GTS 4 mini and GTS 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586946060,
+                "language": "JavaScript",
+                "last_commit": "2023-02-12T03:26:53Z",
+                "owner": "Rafucho25",
+                "repo": "numeric-keyboard-amazfit-devices",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zeppos-timer",
+              "description": "An accurate timer for ZeppOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625442624,
+                "language": "JavaScript",
+                "last_commit": "2023-05-23T05:37:46Z",
+                "owner": "XiaomaiTX",
+                "repo": "zeppos-timer",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lib"
+        }
+      ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "MessageBuilder",
-          "description": "Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes side service part.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-13T04:43:58Z",
-            "owner": "zepp-health",
-            "repo": "zeppos-samples",
-            "stars": 219
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BTC-ZeppOS-for-Watch",
+              "description": "Check btc price at the moment on a watch running Zepp OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 458811270,
+                "language": "JavaScript",
+                "last_commit": "2022-06-17T18:29:54Z",
+                "owner": "fwz233",
+                "repo": "BTC-ZeppOS-for-Watch",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anynews",
+              "description": "Use Fetch api view any news.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589453175,
+                "language": "JavaScript",
+                "last_commit": "2023-06-06T05:04:45Z",
+                "owner": "fwz233",
+                "repo": "Anynews",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zhihu",
+              "description": "See the hot list of Zhihu on the zeppos device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550649915,
+                "language": "JavaScript",
+                "last_commit": "2022-10-13T05:25:30Z",
+                "owner": "fwz233",
+                "repo": "zhihu",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Infomation"
         },
         {
-          "node_type": "item",
-          "title": "Authenticator",
-          "description": "An 2FA app for Zepp OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-24T03:17:57Z",
-            "owner": "ZoLArk173",
-            "repo": "Authenticator",
-            "stars": 31
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "color-switch",
+              "description": "Color Switch, an game developed on ZeppOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516600280,
+                "language": "JavaScript",
+                "last_commit": "2022-09-08T19:46:40Z",
+                "owner": "sirAvent",
+                "repo": "color-switch",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zepp-pong",
+              "description": "Zepp Pong is a beautiful and interesting game for Zepp OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507260478,
+                "language": "JavaScript",
+                "last_commit": "2022-10-15T08:37:38Z",
+                "owner": "Berezza98",
+                "repo": "zepp-pong",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zepp-CircleWars",
+              "description": "A Zepp OS game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534641834,
+                "language": "JavaScript",
+                "last_commit": "2022-09-13T12:29:24Z",
+                "owner": "Berezza98",
+                "repo": "Zepp-CircleWars",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Game"
         },
         {
-          "node_type": "item",
-          "title": "zapp-framework",
-          "description": "Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-25T16:05:23Z",
-            "owner": "j-piasecki",
-            "repo": "zapp-framework",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zeppos-fx",
-          "description": "A library for providing simple animations in ZeppOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-09T13:00:03Z",
-            "owner": "XiaomaiTX",
-            "repo": "zeppos-fx",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vis-log",
-          "description": "ZeppOS Visual Logger: On-Screen Logs on Your Device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-11T01:29:51Z",
-            "owner": "silver-zepp",
-            "repo": "zeppos-visual-logger",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zeppos-device-types-v1",
-          "description": "Third part typings lib.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-10T22:49:33Z",
-            "owner": "tytydraco",
-            "repo": "zeppos-device-types-v1",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "numeric-keyboard-amazfit-devices",
-          "description": "A simple numeric keyboard for amazfit band 7, GTS 4, GTS 4 mini and GTS 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-12T03:26:53Z",
-            "owner": "Rafucho25",
-            "repo": "numeric-keyboard-amazfit-devices",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zeppos-timer",
-          "description": "An accurate timer for ZeppOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-23T05:37:46Z",
-            "owner": "XiaomaiTX",
-            "repo": "zeppos-timer",
-            "stars": 4
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ZeppOS-Tasks",
+              "description": "Task list for ZeppOS. In sync with Google Tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 649295016,
+                "language": "JavaScript",
+                "last_commit": "2025-09-27T13:29:45Z",
+                "owner": "melianmiko",
+                "repo": "ZeppOS-Tasks",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "txtview",
+              "description": "Transfer the txt file to your zeppos watch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550387870,
+                "language": "JavaScript",
+                "last_commit": "2023-06-08T06:47:21Z",
+                "owner": "fwz233",
+                "repo": "txtview",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gaokao-Countdown-ZeppOS",
+              "description": "Gaokao countdown software for Zepp OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 504566502,
+                "language": "JavaScript",
+                "last_commit": "2023-01-25T08:22:31Z",
+                "owner": "lc6464",
+                "repo": "Gaokao-Countdown-ZeppOS",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zepp_quick_notes",
+              "description": "A mini app for Zepp OS 1.0 for create quick annotations directly on watch with a T9 keyboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582308711,
+                "language": "JavaScript",
+                "last_commit": "2023-03-19T11:33:41Z",
+                "owner": "gabrielchristino",
+                "repo": "zepp_quick_notes",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hocon-zepp",
+              "description": "Zepp OS device application for controling WIZ lamp via hocon service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541821097,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T17:46:50Z",
+                "owner": "LeKovr",
+                "repo": "hocon-zepp",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Small Tools"
         }
       ],
-      "title": "Lib"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "App"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BTC-ZeppOS-for-Watch",
-          "description": "Check btc price at the moment on a watch running Zepp OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-06-17T18:29:54Z",
-            "owner": "fwz233",
-            "repo": "BTC-ZeppOS-for-Watch",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anynews",
-          "description": "Use Fetch api view any news.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-06T05:04:45Z",
-            "owner": "fwz233",
-            "repo": "Anynews",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zhihu",
-          "description": "See the hot list of Zhihu on the zeppos device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-13T05:25:30Z",
-            "owner": "fwz233",
-            "repo": "zhihu",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Infomation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "color-switch",
-          "description": "Color Switch, an game developed on ZeppOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-08T19:46:40Z",
-            "owner": "sirAvent",
-            "repo": "color-switch",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zepp-pong",
-          "description": "Zepp Pong is a beautiful and interesting game for Zepp OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-15T08:37:38Z",
-            "owner": "Berezza98",
-            "repo": "zepp-pong",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zepp-CircleWars",
-          "description": "A Zepp OS game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-13T12:29:24Z",
-            "owner": "Berezza98",
-            "repo": "Zepp-CircleWars",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Game"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ZeppOS-Tasks",
-          "description": "Task list for ZeppOS. In sync with Google Tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-27T13:29:45Z",
-            "owner": "melianmiko",
-            "repo": "ZeppOS-Tasks",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "txtview",
-          "description": "Transfer the txt file to your zeppos watch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-08T06:47:21Z",
-            "owner": "fwz233",
-            "repo": "txtview",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gaokao-Countdown-ZeppOS",
-          "description": "Gaokao countdown software for Zepp OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-25T08:22:31Z",
-            "owner": "lc6464",
-            "repo": "Gaokao-Countdown-ZeppOS",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zepp_quick_notes",
-          "description": "A mini app for Zepp OS 1.0 for create quick annotations directly on watch with a T9 keyboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-19T11:33:41Z",
-            "owner": "gabrielchristino",
-            "repo": "zepp_quick_notes",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hocon-zepp",
-          "description": "Zepp OS device application for controling WIZ lamp via hocon service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T17:46:50Z",
-            "owner": "LeKovr",
-            "repo": "hocon-zepp",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Small Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:28:43.253Z",
+    "last_updated": "2026-08-19T12:59:34.695Z",
     "original_repository": "zepp-health/awesome-zeppos",
+    "original_repository_id": 564225198,
     "original_repository_sha": "fdfdd83a8300f53807d42e82a486e01837db95bd",
     "enhanced_repository": "enhansome/enhansome-zeppos",
     "enhanced_repository_description": null,
