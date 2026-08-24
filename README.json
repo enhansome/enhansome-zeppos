@@ -129,6 +129,28 @@
           "description": null,
           "node_type": "group",
           "title": "Lib"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zepp-ts",
+              "description": "Build tool that use typescript to develop zeppos-app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576145088,
+                "language": "Shell",
+                "last_commit": "2022-12-09T06:06:12Z",
+                "owner": "tytydraco",
+                "repo": "zepp-ts",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tool"
         }
       ],
       "title": "Libraries"
@@ -187,6 +209,50 @@
           "description": null,
           "node_type": "group",
           "title": "Infomation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FediClient",
+              "description": "Open-source Mastodon client for ZeppOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 808271867,
+                "language": "JavaScript",
+                "last_commit": "2024-07-31T16:21:24Z",
+                "owner": "griffi-gh",
+                "repo": "zepp-fediclient",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social Media"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ZeppOS-Spotify",
+              "description": "Spotify manager for ZeppOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594890059,
+                "language": "JavaScript",
+                "last_commit": "2023-10-14T18:55:48Z",
+                "owner": "juan518munoz",
+                "repo": "ZeppOS-Spotify",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music"
         },
         {
           "children": [
@@ -254,7 +320,7 @@
                 "last_commit": "2025-09-27T13:29:45Z",
                 "owner": "melianmiko",
                 "repo": "ZeppOS-Tasks",
-                "stars": 35
+                "stars": 36
               }
             },
             {
@@ -327,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:36:49.606Z",
+    "last_updated": "2026-08-24T14:34:35.787Z",
     "original_repository": "zepp-health/awesome-zeppos",
     "original_repository_id": 564225198,
     "original_repository_sha": "fdfdd83a8300f53807d42e82a486e01837db95bd",
