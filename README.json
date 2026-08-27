@@ -320,7 +320,7 @@
                 "last_commit": "2025-09-27T13:29:45Z",
                 "owner": "melianmiko",
                 "repo": "ZeppOS-Tasks",
-                "stars": 36
+                "stars": 37
               }
             },
             {
@@ -393,9 +393,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:38:29.158Z",
-    "original_repository": "zepp-health/awesome-zeppos",
-    "original_repository_id": 564225198,
+    "last_updated": "2026-08-27T12:11:06.276Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 564225198,
+      "language": "Shell",
+      "last_commit": "2024-11-07T10:04:49Z",
+      "owner": "zepp-health",
+      "repo": "awesome-zeppos",
+      "stars": 156
+    },
     "original_repository_sha": "fdfdd83a8300f53807d42e82a486e01837db95bd",
     "enhanced_repository": "enhansome/enhansome-zeppos",
     "enhanced_repository_description": null,
