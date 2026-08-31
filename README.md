@@ -67,7 +67,7 @@
 
 ### Lib
 
-* [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) ⭐ 219 | 🐛 20 | 🌐 JavaScript | 📅 2026-01-13 - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js) ⭐ 219 | 🐛 20 | 🌐 JavaScript | 📅 2026-01-13.
+* [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) ⭐ 220 | 🐛 20 | 🌐 JavaScript | 📅 2026-01-13 - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js) ⭐ 220 | 🐛 20 | 🌐 JavaScript | 📅 2026-01-13.
 * [Authenticator](https://github.com/ZoLArk173/Authenticator) ⭐ 31 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-24 - An 2FA app for Zepp OS.
 * [zapp-framework](https://github.com/j-piasecki/zapp-framework) ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2022-12-25 - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
 * [zeppos-fx](https://github.com/XiaomaiTX/zeppos-fx) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-09 - A library for providing simple animations in ZeppOS.
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
