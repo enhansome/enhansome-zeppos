@@ -87,7 +87,7 @@
                 "open_issues": 0,
                 "owner": "XiaomaiTX",
                 "repo": "zeppos-fx",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:13.975Z"
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:36:44.813Z",
+    "last_updated": "2026-09-19T07:31:49.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",
