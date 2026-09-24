@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:57:52.617Z",
+    "last_updated": "2026-09-24T07:48:38.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",
@@ -571,7 +571,7 @@
       "open_issues": 0,
       "owner": "zepp-health",
       "repo": "awesome-zeppos",
-      "stars": 156,
+      "stars": 157,
       "topics": [
         "awesome",
         "awesome-list",
