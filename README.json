@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-13T04:43:58Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "zepp-health",
                 "repo": "zeppos-samples",
                 "stars": 222,
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:57:10.298Z",
+    "last_updated": "2026-09-29T09:02:14.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",
