@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "zepp-health",
                 "repo": "zeppos-samples",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:13.975Z"
@@ -350,7 +350,7 @@
                 "open_issues": 6,
                 "owner": "juan518munoz",
                 "repo": "ZeppOS-Spotify",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "amazfit",
                   "spotify-api",
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T09:00:00.049Z",
+    "last_updated": "2026-10-01T09:25:20.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",
