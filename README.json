@@ -350,7 +350,7 @@
                 "open_issues": 6,
                 "owner": "juan518munoz",
                 "repo": "ZeppOS-Spotify",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "amazfit",
                   "spotify-api",
@@ -494,7 +494,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2023-01-25T08:22:31Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "lc6464",
                 "repo": "Gaokao-Countdown-ZeppOS",
                 "stars": 9,
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:27:14.567Z",
+    "last_updated": "2026-10-09T09:37:15.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",

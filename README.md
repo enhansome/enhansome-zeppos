@@ -94,7 +94,7 @@
 
 ### Music
 
-* [ZeppOS-Spotify](https://github.com/juan518munoz/ZeppOS-Spotify/) ⭐ 63 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-14 - Spotify manager for ZeppOS.
+* [ZeppOS-Spotify](https://github.com/juan518munoz/ZeppOS-Spotify/) ⭐ 64 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-14 - Spotify manager for ZeppOS.
 
 ### Game
 
@@ -106,10 +106,10 @@
 
 * [ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) ⭐ 37 | 🐛 7 | 🌐 JavaScript | 📅 2025-09-27 - Task list for ZeppOS. In sync with Google Tasks.
 * [txtview](https://github.com/fwz233/txtview) ⭐ 11 | 🐛 7 | 🌐 JavaScript | 📅 2023-06-08 - Transfer the txt file to your zeppos watch.
-* [Gaokao-Countdown-ZeppOS](https://github.com/lc6464/Gaokao-Countdown-ZeppOS) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-25 - Gaokao countdown software for Zepp OS.
+* [Gaokao-Countdown-ZeppOS](https://github.com/lc6464/Gaokao-Countdown-ZeppOS) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-25 - Gaokao countdown software for Zepp OS.
 * [zepp\_quick\_notes](https://github.com/gabrielchristino/zepp_quick_notes) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2023-03-19 - A mini app for Zepp OS 1.0 for create quick annotations directly on watch with a T9 keyboard.
 * [hocon-zepp](https://github.com/LeKovr/hocon-zepp) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-04 - Zepp OS device application for controling WIZ lamp via hocon service.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
