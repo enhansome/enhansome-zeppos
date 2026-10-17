@@ -67,7 +67,7 @@
 
 ### Lib
 
-* [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) ⭐ 223 | 🐛 21 | 🌐 JavaScript | 📅 2026-01-13 - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js) ⭐ 223 | 🐛 21 | 🌐 JavaScript | 📅 2026-01-13.
+* [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) ⭐ 224 | 🐛 21 | 🌐 JavaScript | 📅 2026-01-13 - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js) ⭐ 224 | 🐛 21 | 🌐 JavaScript | 📅 2026-01-13.
 * [Authenticator](https://github.com/ZoLArk173/Authenticator) ⭐ 31 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-24 - An 2FA app for Zepp OS.
 * [zapp-framework](https://github.com/j-piasecki/zapp-framework) ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2022-12-25 - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
 * [zeppos-fx](https://github.com/XiaomaiTX/zeppos-fx) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-09 - A library for providing simple animations in ZeppOS.
@@ -104,7 +104,7 @@
 
 ### Small Tools
 
-* [ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) ⭐ 37 | 🐛 7 | 🌐 JavaScript | 📅 2025-09-27 - Task list for ZeppOS. In sync with Google Tasks.
+* [ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2025-09-27 - Task list for ZeppOS. In sync with Google Tasks.
 * [txtview](https://github.com/fwz233/txtview) ⭐ 11 | 🐛 7 | 🌐 JavaScript | 📅 2023-06-08 - Transfer the txt file to your zeppos watch.
 * [Gaokao-Countdown-ZeppOS](https://github.com/lc6464/Gaokao-Countdown-ZeppOS) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-25 - Gaokao countdown software for Zepp OS.
 * [zepp\_quick\_notes](https://github.com/gabrielchristino/zepp_quick_notes) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2023-03-19 - A mini app for Zepp OS 1.0 for create quick annotations directly on watch with a T9 keyboard.
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
