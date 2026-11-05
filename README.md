@@ -69,7 +69,7 @@
 
 * [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) ⭐ 225 | 🐛 21 | 🌐 JavaScript | 📅 2026-01-13 - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js) ⭐ 225 | 🐛 21 | 🌐 JavaScript | 📅 2026-01-13.
 * [Authenticator](https://github.com/ZoLArk173/Authenticator) ⭐ 31 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-24 - An 2FA app for Zepp OS.
-* [zapp-framework](https://github.com/j-piasecki/zapp-framework) ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2022-12-25 - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
+* [zapp-framework](https://github.com/j-piasecki/zapp-framework) ⭐ 23 | 🐛 3 | 🌐 TypeScript | 📅 2022-12-25 - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
 * [zeppos-fx](https://github.com/XiaomaiTX/zeppos-fx) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-09 - A library for providing simple animations in ZeppOS.
 * [vis-log](https://github.com/silver-zepp/zeppos-visual-logger) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-11 - ZeppOS Visual Logger: On-Screen Logs on Your Device.
 * [zeppos-device-types-v1](https://github.com/tytydraco/zeppos-device-types-v1) ⭐ 6 | 🐛 0 | 📅 2022-12-10 - Third part typings lib.
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
