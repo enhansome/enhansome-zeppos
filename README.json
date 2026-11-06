@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "zepp-health",
                 "repo": "zeppos-samples",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:13.975Z"
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:50:04.117Z",
+    "last_updated": "2026-11-06T09:52:40.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",
