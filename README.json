@@ -115,6 +115,37 @@
             },
             {
               "node_type": "item",
+              "title": "numeric-keyboard-amazfit-devices",
+              "description": "A simple numeric keyboard for amazfit band 7, GTS 4, GTS 4 mini and GTS 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": " Numeric keyboard for amazfit band 7, gts 4, gts 4 mini and gts 3 with zepp os v1",
+                "homepage": null,
+                "id": 586946060,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2023-02-12T03:26:53Z",
+                "open_issues": 0,
+                "owner": "Rafucho25",
+                "repo": "numeric-keyboard-amazfit-devices",
+                "stars": 7,
+                "topics": [
+                  "amazfit",
+                  "band7",
+                  "gts3",
+                  "gts4",
+                  "gts4mini",
+                  "javascript",
+                  "keyboard",
+                  "zepp",
+                  "zeppos"
+                ]
+              },
+              "first_seen": "2026-08-28T14:35:13.975Z"
+            },
+            {
+              "node_type": "item",
               "title": "zeppos-device-types-v1",
               "description": "Third part typings lib.",
               "children": [],
@@ -131,37 +162,6 @@
                 "repo": "zeppos-device-types-v1",
                 "stars": 6,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T14:35:13.975Z"
-            },
-            {
-              "node_type": "item",
-              "title": "numeric-keyboard-amazfit-devices",
-              "description": "A simple numeric keyboard for amazfit band 7, GTS 4, GTS 4 mini and GTS 3.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": " Numeric keyboard for amazfit band 7, gts 4, gts 4 mini and gts 3 with zepp os v1",
-                "homepage": null,
-                "id": 586946060,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2023-02-12T03:26:53Z",
-                "open_issues": 0,
-                "owner": "Rafucho25",
-                "repo": "numeric-keyboard-amazfit-devices",
-                "stars": 6,
-                "topics": [
-                  "amazfit",
-                  "band7",
-                  "gts3",
-                  "gts4",
-                  "gts4mini",
-                  "javascript",
-                  "keyboard",
-                  "zepp",
-                  "zeppos"
-                ]
               },
               "first_seen": "2026-08-28T14:35:13.975Z"
             },
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:07:52.075Z",
+    "last_updated": "2026-11-18T10:43:16.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",

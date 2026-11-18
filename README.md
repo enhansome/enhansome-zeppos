@@ -72,8 +72,8 @@
 * [zapp-framework](https://github.com/j-piasecki/zapp-framework) ⭐ 23 | 🐛 3 | 🌐 TypeScript | 📅 2022-12-25 - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
 * [zeppos-fx](https://github.com/XiaomaiTX/zeppos-fx) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-09 - A library for providing simple animations in ZeppOS.
 * [vis-log](https://github.com/silver-zepp/zeppos-visual-logger) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-11 - ZeppOS Visual Logger: On-Screen Logs on Your Device.
+* [numeric-keyboard-amazfit-devices](https://github.com/Rafucho25/numeric-keyboard-amazfit-devices) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-12 - A simple numeric keyboard for amazfit band 7, GTS 4, GTS 4 mini and GTS 3.
 * [zeppos-device-types-v1](https://github.com/tytydraco/zeppos-device-types-v1) ⭐ 6 | 🐛 0 | 📅 2022-12-10 - Third part typings lib.
-* [numeric-keyboard-amazfit-devices](https://github.com/Rafucho25/numeric-keyboard-amazfit-devices) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-12 - A simple numeric keyboard for amazfit band 7, GTS 4, GTS 4 mini and GTS 3.
 * [zeppos-timer](https://github.com/XiaomaiTX/zeppos-timer) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2023-05-23 - An accurate timer for ZeppOS.
 
 ### Tool
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
