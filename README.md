@@ -104,7 +104,7 @@
 
 ### Small Tools
 
-* [ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2025-09-27 - Task list for ZeppOS. In sync with Google Tasks.
+* [ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) ⭐ 39 | 🐛 7 | 🌐 JavaScript | 📅 2025-09-27 - Task list for ZeppOS. In sync with Google Tasks.
 * [txtview](https://github.com/fwz233/txtview) ⭐ 11 | 🐛 7 | 🌐 JavaScript | 📅 2023-06-08 - Transfer the txt file to your zeppos watch.
 * [Gaokao-Countdown-ZeppOS](https://github.com/lc6464/Gaokao-Countdown-ZeppOS) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-25 - Gaokao countdown software for Zepp OS.
 * [zepp\_quick\_notes](https://github.com/gabrielchristino/zepp_quick_notes) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2023-03-19 - A mini app for Zepp OS 1.0 for create quick annotations directly on watch with a T9 keyboard.
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

@@ -455,7 +455,7 @@
                 "open_issues": 7,
                 "owner": "melianmiko",
                 "repo": "ZeppOS-Tasks",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:35:13.975Z"
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:55:56.972Z",
+    "last_updated": "2026-11-25T11:43:17.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ Useful resources for the Zepp OS",
